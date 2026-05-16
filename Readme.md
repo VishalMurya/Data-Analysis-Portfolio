@@ -1,7 +1,6 @@
-# 📊 GDP Analysis Project
-
-## 🌍 Overview
-This project analyzes the GDP growth of different countries using Python Data Analysis and Visualization techniques.  
+## 📊 GDP Analysis Project
+🌍 Overview
+* This project analyzes the GDP growth of different countries using Python Data Analysis and Visualization techniques.  
 The main objective is to identify economic growth patterns and compare country-wise GDP performance.
 ---
 ## 🚀 Features
