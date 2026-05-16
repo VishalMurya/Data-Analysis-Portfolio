@@ -4,11 +4,7 @@
 The main objective is to identify economic growth patterns and compare country-wise GDP performance.
 ---
 ## 🚀 Features
-* Data Cleaning & Preprocessing  
-* GDP Trend Analysis  
-* Country Comparison  
-* Interactive Visualizations  
-* Business Insights from Data  
+* Data Cleaning & Preprocessing  | GDP Trend Analysis | Country Comparison  | Interactive Visualizations  |  Business Insights from Data  
 ---
 ## 📊 Key Insights
 - China showed rapid GDP growth.
